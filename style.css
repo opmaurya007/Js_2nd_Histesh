@@ -1,3 +1,25 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+.button {
+  width: 25%;
+  height: fit-content;
+}
+#gray {
+  background-color: gray;
+}
+#gray {
+  background-color: white;
+}
+#gray {
+  background-color: blue;
+}
+#gray {
+  background-color: yellow;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
